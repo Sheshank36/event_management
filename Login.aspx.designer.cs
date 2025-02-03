@@ -11,7 +11,7 @@ namespace event_management
 {
 
 
-    public partial class Login1
+    public partial class Login
     {
 
         /// <summary>
