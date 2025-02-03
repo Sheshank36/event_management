@@ -13,6 +13,9 @@
         
         <asp:Button ID="Button1" runat="server" Text="Button" />
         
+        <asp:CheckBoxList ID="CheckBoxList1" runat="server">
+        </asp:CheckBoxList>
+        
     </form>
 </body>
 </html>
